@@ -107,3 +107,15 @@ Foi desenvolvido um **Interface Designer** para a equipe da ONG, permitindo:
 
 - **Automação Google forms/Sheets**  
   ![Automação Google forms/Sheets](./assets/Automação-forms.png)
+
+- **Forms opção inicial**  
+  ![Forms opção inicial](./assets/Forms-inicial.png)
+  
+- **Forms opção inscrição em evento**  
+  ![Forms opção inscrição em evento](./assets/Forms-opcao-inscricao-em-evento.png)
+
+  - **Forms opção novo beneficiário**  
+  ![Forms opção novo beneficiário](./assets/Forms-opcao-novo-beneficiário.png)
+
+
+
